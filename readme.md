@@ -14,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Demo website
+[gia-haunted-house.netlify.app](https://gia-haunted-house.netlify.app).
